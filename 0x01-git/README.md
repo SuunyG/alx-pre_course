@@ -14,7 +14,7 @@ My second readme in the 0x01-git directory
 - Create a file bash/alx with these two lines inside: #!/bin/bash and echo "ALX"
 - Create a file bash/school with these two lines inside: #!/bin/bash and echo "School"
 - Add all these new files to git
-- Commit your changes (message: “Starting to code today, so cool”) and push to the remote server
+- Commit your changes (message: “Starting to code today, so cool”) and push
 ## 3. Collaboration is the base of a company
 ## 4. Collaboration: be up to date
 ## 5. HAAA what did you do???
